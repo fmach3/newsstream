@@ -1,0 +1,7 @@
+tts_clips/
+analyzed_articles.json
+musac_clips/
+*.mp3
+*.mp4
+__pycache__/
+*.log
