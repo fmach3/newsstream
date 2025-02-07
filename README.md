@@ -43,32 +43,27 @@ Install:
 
 Install the required Python packages: pip install -r requirements.txt
 
-Set up your NewsAPI key: Replace NEWS_API_KEY in news_sentiment_aggregator.py with your actual NewsAPI key.
+Set up your NewsAPI key: Replace NEWS_API_KEY in newsstream.py with your actual NewsAPI key and confirm other settings.
 
 Ensure FFmpeg is installed on your system:
 
 On Ubuntu:
 
-bash
-Copy
 sudo apt-get install ffmpeg
 On macOS:
 
-bash
-Copy
 brew install ffmpeg
 
 Usage:
-
 sudo python3 newsstream.py
 
-Then access in browser with http://IP_ADDRESS:8000
+(Then access in browser with http://YOUR_IP_ADDRESS:8000)
 
 
 news-sentiment-tts/
 ├── README.md
 ├── requirements.txt
-├── news_sentiment_aggregator.py
+├── newsstream.py
 ├── tts_clips/
 ├── analyzed_articles.json
 ├── musac_clips/
