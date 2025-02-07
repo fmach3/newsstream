@@ -1,0 +1,7 @@
+### 2. requirements.txt
+
+This file lists all the Python dependencies required for the project.
+requests
+textblob
+gtts
+ffmpeg-python
