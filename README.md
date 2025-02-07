@@ -1,4 +1,4 @@
-# News Sentiment Aggregator with TTS
+# API News Video Stream Bot with TTS and LLM
 
 This project fetches cryptocurrency-related news articles, analyzes their sentiment, and generates a Text-to-Speech (TTS) summary. It also fetches cryptocurrency metrics and generates visual content with embedded audio.
 
